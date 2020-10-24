@@ -40,4 +40,4 @@
 
 ## 使用许可
 
-[MIT](LICENSE) © ambitiousCC
+[HENU](LICENSE) © ambitiousCC
